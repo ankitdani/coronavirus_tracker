@@ -1,5 +1,11 @@
-# coronavirus_tracker
+# Coronavirus Tracker
 
-Data Source: JHU CSSE COVID-19 Dataset
+The applicatin displays the total number of confirmed COVID cases across the globe.
 
-This application is created using Spring and Thymleaf to show the number of confirmed COVID cases across the globe.
+### Tech stack used:
+Java, spring MVC, thymeleaf, bootstrap, git repository
+
+### Data Source: 
+John Hopkins University CSSE COVID-19 Dataset
+
+
