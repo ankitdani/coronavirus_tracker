@@ -3,7 +3,7 @@
 This is a web application that can be used to track the evolution of confirmed coronavirus cases over the world in a visual form.
 
 ## UI (on a webpage)
-Thymeleaf was used to display the confirmed coronavirus cases ranked by countries. (depriciated)
+Thymeleaf was used to display the confirmed coronavirus cases ranked by countries. (deprecated as of February 2023)
 
 ## UI (on tableau)
 
